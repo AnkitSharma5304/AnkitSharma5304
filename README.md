@@ -30,8 +30,8 @@ I am a software developer and competitive programmer with a strong foundation in
 ### 📊 **GitHub Stats**
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Ankit's Github Stats" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Langs" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AnkitSharma5304&show_icons=true&theme=radical" alt="Ankit's Github Stats" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSharma5304&layout=compact&theme=radical" alt="Top Langs" height="150"/>
 </p>
 
 ---
