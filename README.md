@@ -43,10 +43,10 @@
 
 ### 📊 **GitHub Stats**
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnkitSharma5304&show_icons=true&theme=radical&hide_border=true" alt="Ankit's Github Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSharma5304&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="150"/>
-</div>
+</p>
 
 ---
 
