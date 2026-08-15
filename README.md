@@ -43,9 +43,9 @@
 
 ### 📊 **GitHub Stats**
 
-[![Ankit's Github Stats](https://github-readme-stats.vercel.app/api?username=AnkitSharma5304&show_icons=true&theme=radical&hide_border=true)](https://github.com/AnkitSharma5304)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSharma5304&layout=compact&theme=radical&hide_border=true)](https://github.com/AnkitSharma5304)
+[![Ankit's Github Stats](https://github-readme-stats.vercel.app/api?username=AnkitSharma5304&show_icons=true&theme=radical)](https://github.com/AnkitSharma5304)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSharma5304&layout=compact&theme=radical)](https://github.com/AnkitSharma5304)
 ---
 
 ### 📫 **Let's Connect!**
