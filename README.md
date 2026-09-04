@@ -54,22 +54,20 @@
 
 ---
 
-### 📊 GitHub & Coding Stats
+### 📊 Coding Profiles & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitSharma5304&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnkitSharma5304&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=AnkitSharma5304&theme=dracula" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://leetcard.jacoblin.cool/SharmaAnk?theme=nord&font=Kaisei%20HarunoUmi&ext=contest" alt="LeetCode Stats" />
-  <br/><br/>
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ankit676756&theme=aura&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app?username=AnkitSharma5304&theme=dracula&column=3&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="Trophies" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitSharma5304&radius=16&theme=react&area=true" alt="Activity Graph" />
+
+<a href="https://leetcode.com/u/SharmaAnk/">
+  <img src="https://img.shields.io/badge/LeetCode-SharmaAnk-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+<a href="https://codeforces.com/profile/ankit676756">
+  <img src="https://img.shields.io/badge/Codeforces-ankit676756-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+<a href="https://www.codechef.com/users/ankit97563944">
+  <img src="https://img.shields.io/badge/CodeChef-ankit97563944-brown?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
 </div>
 
 ---
