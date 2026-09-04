@@ -1,63 +1,79 @@
-<h1 align="center">Hi there, I'm Ankit Sharma! 👋</h1>
-<h3 align="center">👨‍💻 B.Tech in Mathematics & Computing @ IIIT Bhagalpur ('27)</h3>
+<h1 align="center">
+  Hi there, I'm <span style="color: #007bff;">Ankit Sharma</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" height="30" width="30">
+</h1>
 
 <p align="center">
-  I am a software developer and competitive programmer with a strong foundation in mathematical modeling and systems architecture. I specialize in building scalable web applications using the MERN stack and Next.js, while actively exploring Financial Mathematics, Stochastic Processes, and AI/ML. 
+  <img alt="Dynamic Typing SVG" src="https://readme-typing-svg.herokuapp.com?lines=Competitive-Programmer;Full-Stack-Developer;C%2B%2B+Enthusiast;Mathematics+and+Computing;Systems+Programming&color=007bff&size=22&center=true&vCenter=true&width=550&height=50&font=Fira%20Code"/>
 </p>
 
 ---
 
-### 🚀 **About Me & What I'm Working On**
-
-- 🎓 **Academics:** Pursuing Mathematics and Computing Engineering at the Indian Institute of Information Technology, Bhagalpur.
-- 💡 **Interests:** Full-Stack Development, Competitive Programming, and Data Structures and Algorithm.
-- 🏆 **Competitive Programming:** Active problem solver with over 800+ problems solved across platforms like LeetCode, CodeChef, and Codeforces.
-- 🔭 **Current & Past Projects:**
-  - **EasyHire:** A comprehensive job-finding platform designed to seamlessly connect top talent with the right industry opportunities.
-  - **ResumeAI:** Leveraging Machine Learning to parse documents and provide actionable, structural feedback on resumes.
-  - **Real-Time Chat App:** A seamless communication tool built for speed and reliability.
----
-### 🛠 **Tech Stack & Tools**
-
-**Languages:**
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-
-**Frontend:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend, DB & ML:**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-**Tools & Platforms:**
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 💻 About Me
+- 🎓 I'm an undergraduate student pursuing **Mathematics and Computing Engineering** at **IIIT Bhagalpur** (Expected Graduation: 2027).
+- 💡 Passionate about building robust full-stack web applications, systems architecture, and solving complex algorithmic challenges.
+- ⚡ In my free time, you'll find me optimizing C++ code or grinding competitive programming problems on Codeforces, CodeChef, and LeetCode.
 
 ---
 
-### 📊 **GitHub Stats**
-
-[![Ankit's Github Stats](https://github-readme-stats.vercel.app/api?username=AnkitSharma5304&show_icons=true&theme=radical)](https://github.com/AnkitSharma5304)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSharma5304&layout=compact&theme=radical)](https://github.com/AnkitSharma5304)
----
-
-### 📫 **Let's Connect!**
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ankit-sharma-67765228a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:ankit676756@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://personal-portfolio-liart-five.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
-  </a>
+
+| Category | Technologies / Tools |
+| :--- | :--- |
+| **Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="26" alt="C++" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="26" alt="C" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26" alt="Python" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26" alt="JavaScript" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="26" alt="TypeScript" /> |
+| **Frontend & Web** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="26" alt="React" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26" alt="HTML5" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" alt="CSS3" /> |
+| **Backend & Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="26" alt="NodeJS" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="26" alt="MongoDB" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="26" alt="MySQL" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="26" alt="NPM" /> |
+| **Tools & OS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="26" alt="Git" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="26" alt="GitHub" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="26" alt="Linux" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="26" alt="Vim" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="26" alt="VS Code" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="26" alt="Figma" /> |
+
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ankit-sharma-67765228a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://leetcode.com/u/SharmaAnk/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=white">
+</a>
+<a href="https://codeforces.com/profile/ankit676756">
+  <img src="https://img.shields.io/badge/CodeForces-1F65B4?style=for-the-badge&logo=codeforces&logoColor=white">
+</a>
+<a href="https://www.codechef.com/users/ankit97563944">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
+</a>
+<a href="mailto:sanghaibiraj@gmail.com?subject=Hello%20Ankit,%20From%20Github">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
+
+### 📊 GitHub & Coding Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkitSharma5304&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnkitSharma5304&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=AnkitSharma5304&theme=dracula" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://leetcard.jacoblin.cool/SharmaAnk?theme=nord&font=Kaisei%20HarunoUmi&ext=contest" alt="LeetCode Stats" />
+  <br/><br/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ankit676756&theme=aura&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app?username=AnkitSharma5304&theme=dracula&column=3&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="Trophies" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitSharma5304&radius=16&theme=react&area=true" alt="Activity Graph" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AnkitSharma5304/count.svg?color=007bff" alt="Profile Counter" />
 </div>
