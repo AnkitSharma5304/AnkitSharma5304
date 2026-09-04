@@ -54,24 +54,6 @@
 
 ---
 
-### 📊 Coding Profiles & Stats
-
-<div align="center">
-
-<a href="https://leetcode.com/u/SharmaAnk/">
-  <img src="https://img.shields.io/badge/LeetCode-SharmaAnk-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-<a href="https://codeforces.com/profile/ankit676756">
-  <img src="https://img.shields.io/badge/Codeforces-ankit676756-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-<a href="https://www.codechef.com/users/ankit97563944">
-  <img src="https://img.shields.io/badge/CodeChef-ankit97563944-brown?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-
-</div>
-
----
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/AnkitSharma5304/count.svg?color=007bff" alt="Profile Counter" />
 </div>
