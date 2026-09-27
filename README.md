@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi there, I'm <span style="color: #007bff;">Ankit Sharma</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" height="30" width="30">
 </h1>
-
+   
 <p align="center">
   <img alt="Dynamic Typing SVG" src="https://readme-typing-svg.herokuapp.com?lines=Competitive-Programmer;Full-Stack-Developer;C%2B%2B+Enthusiast;Mathematics+and+Computing;Systems+Programming&color=007bff&size=22&center=true&vCenter=true&width=550&height=50&font=Fira%20Code"/>
 </p>
